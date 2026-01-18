@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\v1;
 use App\Http\Controllers\v1\Controller;
-use App\Models\reply;
+use App\Models\Reply;
 use Illuminate\Http\Request;
 use App\Http\Resources\v1\replyListResource;
 class ReplyController extends Controller
